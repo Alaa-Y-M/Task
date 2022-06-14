@@ -1,0 +1,12 @@
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Core\bin\Debug\net7.0\ArmyTechTask.Core.deps.json
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Core\bin\Debug\net7.0\ArmyTechTask.Core.dll
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Core\bin\Debug\net7.0\ArmyTechTask.Core.pdb
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Core\obj\Debug\net7.0\ArmyTechTask.Core.csproj.AssemblyReference.cache
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Core\obj\Debug\net7.0\ArmyTechTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Core\obj\Debug\net7.0\ArmyTechTask.Core.AssemblyInfoInputs.cache
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Core\obj\Debug\net7.0\ArmyTechTask.Core.AssemblyInfo.cs
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Core\obj\Debug\net7.0\ArmyTechTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Core\obj\Debug\net7.0\ArmyTechTask.Core.dll
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Core\obj\Debug\net7.0\refint\ArmyTechTask.Core.dll
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Core\obj\Debug\net7.0\ArmyTechTask.Core.pdb
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Core\obj\Debug\net7.0\ref\ArmyTechTask.Core.dll

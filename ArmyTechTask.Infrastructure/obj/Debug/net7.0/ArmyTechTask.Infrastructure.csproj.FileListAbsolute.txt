@@ -1,0 +1,17 @@
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\bin\Debug\net7.0\ArmyTechTask.Infrastructure.deps.json
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\bin\Debug\net7.0\ArmyTechTask.Infrastructure.runtimeconfig.json
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\bin\Debug\net7.0\ArmyTechTask.Infrastructure.dll
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\bin\Debug\net7.0\ArmyTechTask.Infrastructure.pdb
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\obj\Debug\net7.0\ArmyTechTask.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\obj\Debug\net7.0\ArmyTechTask.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\obj\Debug\net7.0\ArmyTechTask.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\obj\Debug\net7.0\ArmyTechTask.Infrastructure.AssemblyInfo.cs
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\obj\Debug\net7.0\ArmyTechTask.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\obj\Debug\net7.0\ArmyTechTask.Infrastructure.dll
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\obj\Debug\net7.0\refint\ArmyTechTask.Infrastructure.dll
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\obj\Debug\net7.0\ArmyTechTask.Infrastructure.pdb
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\obj\Debug\net7.0\ArmyTechTask.Infrastructure.genruntimeconfig.cache
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\obj\Debug\net7.0\ref\ArmyTechTask.Infrastructure.dll
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\bin\Debug\net7.0\ArmyTechTask.Core.dll
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\bin\Debug\net7.0\ArmyTechTask.Core.pdb
+C:\Users\Alaa\Desktop\task\ArmyTechTask.Infrastructure\obj\Debug\net7.0\ArmyTechTask.Infrastructure.csproj.CopyComplete

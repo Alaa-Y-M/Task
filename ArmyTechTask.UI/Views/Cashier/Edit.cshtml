@@ -1,0 +1,41 @@
+@model ArmyTechTask.UI.Models.CashierVM.CashierVm;
+
+
+<div class="container mt-4">
+    <h3>Edite Cashier </h3>
+    <hr />
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-action="Edit" asp-controller="Cashier">
+                <div class="row">
+                    <div class="col">
+                        <!--Cashier Details-->
+                        <div class="form-group">
+                            <label asp-for="CashierName" class="control-label"></label>
+                            <input asp-for="CashierName" type="text" class="form-control" />
+                            <span asp-validation-for="CashierName" class="text-danger"></span>
+                        </div>
+                        @* <div class="form-group">
+                            <label asp-for="BranchId" class="control-label"></label>
+                            <input asp-for="BranchId" type="number" class="form-control" />
+                            <span asp-validation-for="BranchId" class="text-danger"></span>
+                            </div> *@
+                        <div class="form-group">
+                            <label class="control-label">Branches</label>
+                            <select asp-for="BranchId" type="number" class="form-control"
+                                asp-items="@ViewBag.listb"></select>
+                            <span asp-validation-for="BranchId" class="text-danger"></span>
+                        </div>
+                        <div class="form-group mt-3">
+                            <input type="submit" value="Save" class="btn btn-primary" />
+                        </div>
+                    </div>
+                </div>
+            </form>
+
+            <div class="mt-2 mb-1">
+                <a asp-action="index" class="btn btn-outline-warning"><i class="fas fa-backward fa-2x"> Backward</i></a>
+            </div>
+        </div>
+    </div>
+</div>

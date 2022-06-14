@@ -1,0 +1,53 @@
+@model ArmyTechTask.UI.Models.Invoice.InvoiceDetailsVm
+@{
+    ViewData["Title"] = "Edit Details";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+<div class="container mt-4">
+    <h3> Edit Invoice Details</h3>
+    <hr />
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-action="EditInvoiceDetails" asp-controller="Invoice">
+                <div class="row">
+                    <div class="col">
+                        <!--Invoice Details-->
+                        <div class="form-group">
+                            <label asp-for="ItemName" class="control-label"></label>
+                            <input asp-for="ItemName" type="text" class="form-control" />
+                            <span asp-validation-for="ItemName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="ItemCount" class="control-label"></label>
+                            <input asp-for="ItemCount" type="number" class="form-control" />
+                            <span asp-validation-for="ItemCount" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="ItemPrice" class="control-label"></label>
+                            <input asp-for="ItemPrice" type="number" class="form-control" />
+                            <span asp-validation-for="ItemPrice" class="text-danger"></span>
+                        </div>
+                        @* <div class="form-group">
+                            <label asp-for="InvoiceHeaderId" class="control-label"></label>
+                            <input asp-for="InvoiceHeaderId" type="number" class="form-control" />
+                            <span asp-validation-for="InvoiceHeaderId" class="text-danger"></span>
+                        </div> *@
+                        <div class="form-group">
+                            <label class="control-label">Customers</label>
+                            <select asp-for="InvoiceHeaderId" type="number" class="form-control" asp-items="@ViewBag.list" ></select>
+                            <span asp-validation-for="InvoiceHeaderId" class="text-danger"></span>
+                        </div>
+                        <div class="form-group mt-3">
+                            <input type="submit" value="Save" class="btn btn-primary" />
+                        </div>
+                    </div>
+                </div>
+            </form>
+
+            <div class="mt-2 mb-1">
+                <a asp-action="index" class="btn btn-outline-warning"><i class="fas fa-backward fa-2x"> Backward</i></a>
+            </div>
+        </div>
+    </div>
+</div>
