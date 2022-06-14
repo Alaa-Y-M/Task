@@ -8,77 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ArmyTechTask.UI
 build_property.RootNamespace = ArmyTechTask.UI
-build_property.ProjectDir = C:\Users\Alaa\Desktop\task\ArmyTechTask.UI\
+build_property.ProjectDir = c:\Users\Alaa\Desktop\task\ArmyTechTask.UI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\Alaa\Desktop\task\ArmyTechTask.UI
+build_property.MSBuildProjectDirectory = c:\Users\Alaa\Desktop\task\ArmyTechTask.UI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Cashier/Create.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Cashier/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzaGllclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Cashier/Delete.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Cashier/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzaGllclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Cashier/Edit.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Cashier/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzaGllclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Cashier/Index.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Cashier/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzaGllclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Cashier/Privacy.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Cashier/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzaGllclxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Invoice/CreateInvoiceDetails.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Invoice/CreateInvoiceDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxDcmVhdGVJbnZvaWNlRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Invoice/CreateInvoiceHeader.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Invoice/CreateInvoiceHeader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxDcmVhdGVJbnZvaWNlSGVhZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Invoice/Delete.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Invoice/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Invoice/EditInvoiceDetails.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Invoice/EditInvoiceDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxFZGl0SW52b2ljZURldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Invoice/EditInvoiceHeader.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Invoice/EditInvoiceHeader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxFZGl0SW52b2ljZUhlYWRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Invoice/Index.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Invoice/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Invoice/Privacy.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Invoice/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Shared/Error.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/_ViewImports.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/_ViewStart.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Shared/_Layout.cshtml]
+[c:/Users/Alaa/Desktop/task/ArmyTechTask.UI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xofnv85i86
